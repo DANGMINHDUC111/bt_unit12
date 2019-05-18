@@ -1,0 +1,79 @@
+*{margin: 0;padding: 0;}
+.den
+{
+	background: black;
+}
+.den a
+{
+	color: white!important;
+}
+.anhnen
+{
+	background-image: url('../images/11.jpg');
+	background-size: cover;
+	  background-repeat: no-repeat;
+    background-position: center center;
+
+	height: 600px;
+	width: 100%;
+}
+.anhnen h1
+{
+	color: white;
+	padding-top: 100px;
+	padding-bottom: 50px;
+}
+.anhnen p
+{
+	color: #f0e9e9;
+}
+.anhnen button
+{
+	color: white;
+	background: #f05f40;
+	border-radius: 10px;
+	margin-top: 30px;
+}
+.khoitrang h2
+{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+.khoitrang p
+{
+	margin-bottom: 50px;
+}
+.khoianh .col-md-4
+{
+	padding:0!important;
+}
+.khoiden
+{
+	background: #212529;
+}
+.khoiden h2
+{
+	color: white;
+	padding-top: 100px;
+}
+.khoiden button
+{
+	border-radius: 15px;
+	margin-bottom: 100px;
+}
+.footer
+{
+	padding: 50px 0;
+}
+.footer .fa-phone
+{
+	font-size: 30px;
+}
+.footer .fa-envelope
+{
+	font-size: 30px;
+}
+#mail
+{
+	color: red;
+}
